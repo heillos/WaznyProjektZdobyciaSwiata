@@ -1,3 +1,7 @@
 Kaczka
 heheszki Leszki
+<<<<<<< HEAD
 kolka autobusu kreca sie przez caly dzien
+=======
+No elo
+>>>>>>> 69cf48b11e3c5c944ebbdd48873e94985e5eadc0
